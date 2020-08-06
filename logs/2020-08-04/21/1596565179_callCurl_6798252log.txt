@@ -1,0 +1,73 @@
+array (
+  'url' => 'https://movens.bitrix24.ru/rest/landing.landing.addblock.json',
+  'info' => 
+  array (
+    'url' => 'https://movens.bitrix24.ru/rest/landing.landing.addblock.json',
+    'content_type' => 'application/json',
+    'http_code' => 503,
+    'header_size' => 204,
+    'request_size' => 222,
+    'filetime' => -1,
+    'ssl_verify_result' => 0,
+    'redirect_count' => 0,
+    'total_time' => 0.05342,
+    'namelookup_time' => 3.0E-5,
+    'connect_time' => 0.010398,
+    'pretransfer_time' => 0.042604,
+    'size_upload' => 0.0,
+    'size_download' => 73.0,
+    'speed_download' => 1366.0,
+    'speed_upload' => 0.0,
+    'download_content_length' => 73.0,
+    'upload_content_length' => 2758.0,
+    'starttransfer_time' => 0.05339,
+    'redirect_time' => 0.0,
+    'redirect_url' => '',
+    'primary_ip' => '178.132.201.51',
+    'certinfo' => 
+    array (
+    ),
+    'primary_port' => 443,
+    'local_ip' => '10.1.159.210',
+    'local_port' => 39504,
+  ),
+  'params' => 
+  array (
+    'method' => 'landing.landing.addblock',
+    'params' => 
+    array (
+      'lid' => 1393,
+      'fields' => 
+      array (
+        'CODE' => 'html',
+        'AFTER_ID' => NULL,
+        'CONTENT' => '<section class="landing-block g-pl-0 g-pr-0 g-bg-white g-pb-100 g-pt-50"><div class="html-block"><table width="100%"><tbody><tr><th>Станция</th><th>Прибытие</th><th>Стоянка</th><th>Отправление</th><th>Время в пути</th></tr><tr><td>
+ Москва Октябрьская
+ </td><td></td><td></td><td>21:05</td><td></td></tr><tr><td>
+ Тверь
+ </td><td>22:55</td><td>1 м</td><td>22:56</td><td>1 ч 50 м</td></tr><tr><td>
+ Бологое-Московское
+ </td><td>00:27</td><td>3 м</td><td>00:30</td><td>3 ч 21 м</td></tr><tr><td>
+ Малая Вишера
+ </td><td>01:45</td><td>1 м</td><td>01:46</td><td>4 ч 36 м</td></tr><tr><td>
+ Волховстрой 2
+ </td><td>03:52</td><td>2 м</td><td>03:54</td><td>6 ч 42 м</td></tr><tr><td>
+ Лодейное Поле
+ </td><td>05:15</td><td>3 м</td><td>05:18</td><td>8 ч 3 м</td></tr><tr><td>
+ Подпорожье
+ </td><td>05:48</td><td>2 м</td><td>05:50</td><td>8 ч 33 м</td></tr><tr><td>
+ Свирь
+ </td><td>06:05</td><td>6 м</td><td>06:11</td><td>8 ч 48 м</td></tr><tr><td>
+ Петрозаводск-Пасс
+ </td><td>07:50</td><td></td><td></td><td>10 ч 27 м</td></tr></tbody></table></div></section>',
+      ),
+      'auth' => '67b4295f004b12ec002a97140000007d000003055841a9606e9452e93ca997fdb17d8d',
+    ),
+  ),
+  'result' => 
+  array (
+    'error' => 'QUERY_LIMIT_EXCEEDED',
+    'error_description' => 'Too many requests',
+    'error_information' => 'Too many requests, maximum 2 query by second',
+  ),
+)

@@ -1,0 +1,9 @@
+array (
+  'lid' => 1389,
+  'result' => 
+  array (
+    'error' => 'QUERY_LIMIT_EXCEEDED',
+    'error_description' => 'Too many requests',
+    'error_information' => 'Too many requests, maximum 2 query by second',
+  ),
+)

@@ -1,0 +1,32 @@
+array (
+  'fields' => 
+  array (
+    'CODE' => 'html',
+    'AFTER_ID' => NULL,
+    'CONTENT' => '<section class="landing-block g-pl-0 g-pr-0 g-bg-white g-pb-100 g-pt-50"><div class="html-block"><table width="100%"><tbody><tr><th>Станция</th><th>Прибытие</th><th>Стоянка</th><th>Отправление</th><th>Время в пути</th></tr><tr><td>
+ Санкт-Петербург Ладож.
+ </td><td></td><td></td><td>23:20</td><td></td></tr><tr><td>
+ Волховстрой 1
+ </td><td>01:18</td><td>13 м</td><td>01:31</td><td>1 ч 58 м</td></tr><tr><td>
+ Лодейное Поле
+ </td><td>03:04</td><td>18 м</td><td>03:22</td><td>3 ч 31 м</td></tr><tr><td>
+ Подпорожье
+ </td><td>03:54</td><td>2 м</td><td>03:56</td><td>4 ч 3 м</td></tr><tr><td>
+ Свирь
+ </td><td>04:10</td><td>34 м</td><td>04:44</td><td>4 ч 17 м</td></tr><tr><td>
+ Ладва
+ </td><td>05:51</td><td>1 м</td><td>05:52</td><td>5 ч 24 м</td></tr><tr><td>
+ Пяжиева Сельга
+ </td><td>06:08</td><td>1 м</td><td>06:09</td><td>5 ч 40 м</td></tr><tr><td>
+ Деревянка
+ </td><td>06:20</td><td>1 м</td><td>06:21</td><td>5 ч 51 м</td></tr><tr><td>
+ Петрозаводск-Пасс
+ </td><td>06:50</td><td></td><td></td><td>6 ч 20 м</td></tr></tbody></table></div></section>',
+  ),
+  'result' => 
+  array (
+    'error' => 'QUERY_LIMIT_EXCEEDED',
+    'error_description' => 'Too many requests',
+    'error_information' => 'Too many requests, maximum 2 query by second',
+  ),
+)

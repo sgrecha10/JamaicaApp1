@@ -1,0 +1,71 @@
+array (
+  'url' => 'https://movens.bitrix24.ru/rest/landing.landing.add.json',
+  'info' => 
+  array (
+    'url' => 'https://movens.bitrix24.ru/rest/landing.landing.add.json',
+    'content_type' => 'application/json; charset=utf-8',
+    'http_code' => 200,
+    'header_size' => 1262,
+    'request_size' => 217,
+    'filetime' => -1,
+    'ssl_verify_result' => 0,
+    'redirect_count' => 0,
+    'total_time' => 1.369627,
+    'namelookup_time' => 4.3E-5,
+    'connect_time' => 1.010689,
+    'pretransfer_time' => 1.043079,
+    'size_upload' => 5012.0,
+    'size_download' => 226.0,
+    'speed_download' => 165.0,
+    'speed_upload' => 3659.0,
+    'download_content_length' => -1.0,
+    'upload_content_length' => 5012.0,
+    'starttransfer_time' => 1.055584,
+    'redirect_time' => 0.0,
+    'redirect_url' => '',
+    'primary_ip' => '178.132.201.52',
+    'certinfo' => 
+    array (
+    ),
+    'primary_port' => 443,
+    'local_ip' => '10.1.159.210',
+    'local_port' => 52378,
+  ),
+  'params' => 
+  array (
+    'method' => 'landing.landing.add',
+    'params' => 
+    array (
+      'fields' => 
+      array (
+        'TITLE' => 'Билеты на поезд 133А: Санкт-Петербург - Казань',
+        'CODE' => 'bilety-na-poezd-133a-sankt-peterburg-kazan',
+        'DESCRIPTION' => 'Купить билет на поезд 133А (Поволжье) следующий по маршруту Санкт-Петербург - Казань и оплатить его самостоятельно для одного или нескольких пассажиров вы можете с помощью онлайн формы. Помните, что поезд №133А оправляется в 15:26 и прибывает в Казань спустя 22 часа 32 минуты, количество остановок во время пути составляет 15 ст..',
+        'SITE_ID' => 23,
+        'SITEMAP' => 'Y',
+        'FOLDER_ID' => 1023,
+        'XML_ID' => '176243',
+        'ADDITIONAL_FIELDS' => 
+        array (
+          'METAMAIN_USE' => 'Y',
+          'METAMAIN_DESCRIPTION' => 'Купить билет на поезд 133А (Поволжье) следующий по маршруту Санкт-Петербург - Казань и оплатить его самостоятельно для одного или нескольких пассажиров вы можете с помощью онлайн формы. Помните, что поезд №133А оправляется в 15:26 и прибывает в Казань спустя 22 часа 32 минуты, количество остановок во время пути составляет 15 ст..',
+          'METAMAIN_KEYWORDS' => 'поезд 133А Санкт-Петербург - Казань, билет на поезд 133А Санкт-Петербург - Казань, поезд Санкт-Петербург - Казань, купить онлайн билет на поезд 133А Санкт-Петербург - Казань, описание поезда 133А Санкт-Петербург - Казань',
+        ),
+      ),
+      'auth' => '05a6295f004b12ec002a97140000007d000003078a47f927029b461dd15ccb9971baec',
+    ),
+  ),
+  'result' => 
+  array (
+    'result' => 1389,
+    'time' => 
+    array (
+      'start' => 1596563361.335621,
+      'finish' => 1596563361.564242,
+      'duration' => 0.2286207675933838,
+      'processing' => 0.20167303085327148,
+      'date_start' => '2020-08-04T20:49:21+03:00',
+      'date_finish' => '2020-08-04T20:49:21+03:00',
+    ),
+  ),
+)

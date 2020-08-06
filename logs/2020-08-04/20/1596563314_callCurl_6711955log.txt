@@ -1,0 +1,68 @@
+array (
+  'url' => 'https://movens.bitrix24.ru/rest/landing.landing.addblock.json',
+  'info' => 
+  array (
+    'url' => 'https://movens.bitrix24.ru/rest/landing.landing.addblock.json',
+    'content_type' => 'application/json; charset=utf-8',
+    'http_code' => 200,
+    'header_size' => 1237,
+    'request_size' => 557,
+    'filetime' => -1,
+    'ssl_verify_result' => 0,
+    'redirect_count' => 0,
+    'total_time' => 0.164357,
+    'namelookup_time' => 2.8E-5,
+    'connect_time' => 0.010469,
+    'pretransfer_time' => 0.041273,
+    'size_upload' => 358.0,
+    'size_download' => 229.0,
+    'speed_download' => 1393.0,
+    'speed_upload' => 2178.0,
+    'download_content_length' => -1.0,
+    'upload_content_length' => 358.0,
+    'starttransfer_time' => 0.16432,
+    'redirect_time' => 0.0,
+    'redirect_url' => '',
+    'primary_ip' => '178.132.201.52',
+    'certinfo' => 
+    array (
+    ),
+    'primary_port' => 443,
+    'local_ip' => '10.1.159.210',
+    'local_port' => 42626,
+  ),
+  'params' => 
+  array (
+    'method' => 'landing.landing.addblock',
+    'params' => 
+    array (
+      'lid' => '1279',
+      'fields' => 
+      array (
+        'CODE' => '26.separator',
+        'AFTER_ID' => 24341,
+        'CONTENT' => '
+<section class="landing-block g-pt-10 g-pb-10">
+
+        <hr class="landing-block-line landing-semantic-border my-0 g-brd-gray-dark-v1">
+
+</section>
+        ',
+      ),
+      'auth' => '05a6295f004b12ec002a97140000007d000003078a47f927029b461dd15ccb9971baec',
+    ),
+  ),
+  'result' => 
+  array (
+    'result' => 24343,
+    'time' => 
+    array (
+      'start' => 1596563314.021567,
+      'finish' => 1596563314.085231,
+      'duration' => 0.06366395950317383,
+      'processing' => 0.039045095443725586,
+      'date_start' => '2020-08-04T20:48:34+03:00',
+      'date_finish' => '2020-08-04T20:48:34+03:00',
+    ),
+  ),
+)

@@ -1,0 +1,73 @@
+array (
+  'url' => 'https://movens.bitrix24.ru/rest/landing.landing.getList.json',
+  'info' => 
+  array (
+    'url' => 'https://movens.bitrix24.ru/rest/landing.landing.getList.json',
+    'content_type' => 'application/json; charset=utf-8',
+    'http_code' => 200,
+    'header_size' => 1237,
+    'request_size' => 375,
+    'filetime' => -1,
+    'ssl_verify_result' => 0,
+    'redirect_count' => 0,
+    'total_time' => 0.137807,
+    'namelookup_time' => 2.3E-5,
+    'connect_time' => 0.010415,
+    'pretransfer_time' => 0.041639,
+    'size_upload' => 177.0,
+    'size_download' => 239.0,
+    'speed_download' => 1734.0,
+    'speed_upload' => 1284.0,
+    'download_content_length' => -1.0,
+    'upload_content_length' => 177.0,
+    'starttransfer_time' => 0.137771,
+    'redirect_time' => 0.0,
+    'redirect_url' => '',
+    'primary_ip' => '178.132.201.51',
+    'certinfo' => 
+    array (
+    ),
+    'primary_port' => 443,
+    'local_ip' => '10.1.159.210',
+    'local_port' => 36976,
+  ),
+  'params' => 
+  array (
+    'method' => 'landing.landing.getList',
+    'params' => 
+    array (
+      'params' => 
+      array (
+        'select' => 
+        array (
+          0 => 'ID',
+        ),
+        'filter' => 
+        array (
+          'XML_ID' => '176209',
+          'SITE_ID' => 23,
+        ),
+      ),
+      'auth' => '67b4295f004b12ec002a97140000007d000003055841a9606e9452e93ca997fdb17d8d',
+    ),
+  ),
+  'result' => 
+  array (
+    'result' => 
+    array (
+      0 => 
+      array (
+        'ID' => '1287',
+      ),
+    ),
+    'time' => 
+    array (
+      'start' => 1596565166.979161,
+      'finish' => 1596565167.015354,
+      'duration' => 0.036192893981933594,
+      'processing' => 0.007546186447143555,
+      'date_start' => '2020-08-04T21:19:26+03:00',
+      'date_finish' => '2020-08-04T21:19:27+03:00',
+    ),
+  ),
+)

@@ -1,0 +1,23 @@
+array (
+  'fields' => 
+  array (
+    'CODE' => '04.1.one_col_fix_with_title',
+    'AFTER_ID' => NULL,
+    'CONTENT' => '
+<section class="landing-block js-animation g-pt-20 g-pb-20 g-bg-gray-light-v5 animation-none" style="animation-duration: 1000ms; visibility: hidden; animation-name: none; animation-play-state: paused;">
+        <div class="container">
+            <div class="landing-block-node-inner text-uppercase text-center u-heading-v2-4--bottom g-brd-primary">
+                <h4 class="landing-block-node-subtitle h6 g-font-weight-800 g-font-size-12 g-letter-spacing-1 g-color-primary g-mb-20">Расписание поезда 011А</h4>
+                <h2 class="landing-block-node-title h1 u-heading-v2__title g-line-height-1_3 g-font-weight-600 g-mb-minus-10 g-font-size-30">Петрозаводск – Санкт-Петербург</h2>
+            </div>
+        </div>
+</section>
+        ',
+  ),
+  'result' => 
+  array (
+    'error' => 'QUERY_LIMIT_EXCEEDED',
+    'error_description' => 'Too many requests',
+    'error_information' => 'Too many requests, maximum 2 query by second',
+  ),
+)

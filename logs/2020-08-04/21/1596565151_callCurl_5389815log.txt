@@ -1,0 +1,214 @@
+array (
+  'url' => 'https://movens.bitrix24.ru/rest/landing.block.getlist.json',
+  'info' => 
+  array (
+    'url' => 'https://movens.bitrix24.ru/rest/landing.block.getlist.json',
+    'content_type' => 'application/json; charset=utf-8',
+    'http_code' => 200,
+    'header_size' => 1237,
+    'request_size' => 304,
+    'filetime' => -1,
+    'ssl_verify_result' => 0,
+    'redirect_count' => 0,
+    'total_time' => 0.18232000000000004,
+    'namelookup_time' => 2.3E-5,
+    'connect_time' => 0.012048,
+    'pretransfer_time' => 0.046063,
+    'size_upload' => 108.0,
+    'size_download' => 3787.0,
+    'speed_download' => 20771.0,
+    'speed_upload' => 592.0,
+    'download_content_length' => -1.0,
+    'upload_content_length' => 108.0,
+    'starttransfer_time' => 0.18228200000000006,
+    'redirect_time' => 0.0,
+    'redirect_url' => '',
+    'primary_ip' => '178.132.201.51',
+    'certinfo' => 
+    array (
+    ),
+    'primary_port' => 443,
+    'local_ip' => '10.1.159.210',
+    'local_port' => 33638,
+  ),
+  'params' => 
+  array (
+    'method' => 'landing.block.getlist',
+    'params' => 
+    array (
+      'lid' => '1281',
+      'params' => 
+      array (
+        'edit_mode' => 1,
+      ),
+      'auth' => '67b4295f004b12ec002a97140000007d000003055841a9606e9452e93ca997fdb17d8d',
+    ),
+  ),
+  'result' => 
+  array (
+    'result' => 
+    array (
+      0 => 
+      array (
+        'id' => 24839,
+        'lid' => 1281,
+        'code' => '08.4.fix_title_and_text',
+        'name' => 'Заголовок с текстом и разделителем',
+        'active' => true,
+        'meta' => 
+        array (
+          'CREATED_BY_ID' => '125',
+          'MODIFIED_BY_ID' => '125',
+          'DATE_CREATE' => '04.08.2020 21:18:09',
+          'DATE_MODIFY' => '04.08.2020 21:18:11',
+          'LANDING_TITLE' => '',
+          'LANDING_TPL_CODE' => '',
+          'SITE_TPL_CODE' => 'empty',
+          'XML_ID' => '',
+        ),
+      ),
+      1 => 
+      array (
+        'id' => 24841,
+        'lid' => 1281,
+        'code' => '04.1.one_col_fix_with_title',
+        'name' => 'Заголовок с разделителем на светлом фоне',
+        'active' => true,
+        'meta' => 
+        array (
+          'CREATED_BY_ID' => '125',
+          'MODIFIED_BY_ID' => '125',
+          'DATE_CREATE' => '04.08.2020 21:18:09',
+          'DATE_MODIFY' => '04.08.2020 21:18:11',
+          'LANDING_TITLE' => '',
+          'LANDING_TPL_CODE' => '',
+          'SITE_TPL_CODE' => 'empty',
+          'XML_ID' => '',
+        ),
+      ),
+      2 => 
+      array (
+        'id' => 24843,
+        'lid' => 1281,
+        'code' => 'html',
+        'name' => 'HTML код',
+        'active' => true,
+        'meta' => 
+        array (
+          'CREATED_BY_ID' => '125',
+          'MODIFIED_BY_ID' => '125',
+          'DATE_CREATE' => '04.08.2020 21:18:09',
+          'DATE_MODIFY' => '04.08.2020 21:18:11',
+          'LANDING_TITLE' => '',
+          'LANDING_TPL_CODE' => '',
+          'SITE_TPL_CODE' => 'empty',
+          'XML_ID' => '',
+        ),
+      ),
+      3 => 
+      array (
+        'id' => 24845,
+        'lid' => 1281,
+        'code' => '13.1.one_col_fix_text_and_button',
+        'name' => 'Текст с кнопкой по центру',
+        'active' => true,
+        'meta' => 
+        array (
+          'CREATED_BY_ID' => '125',
+          'MODIFIED_BY_ID' => '125',
+          'DATE_CREATE' => '04.08.2020 21:18:09',
+          'DATE_MODIFY' => '04.08.2020 21:18:11',
+          'LANDING_TITLE' => '',
+          'LANDING_TPL_CODE' => '',
+          'SITE_TPL_CODE' => 'empty',
+          'XML_ID' => '',
+        ),
+      ),
+      4 => 
+      array (
+        'id' => 24847,
+        'lid' => 1281,
+        'code' => '04.7.one_col_fix_with_title_and_text_2',
+        'name' => 'Заголовок с разделителем и текстом',
+        'active' => true,
+        'meta' => 
+        array (
+          'CREATED_BY_ID' => '125',
+          'MODIFIED_BY_ID' => '125',
+          'DATE_CREATE' => '04.08.2020 21:18:10',
+          'DATE_MODIFY' => '04.08.2020 21:18:11',
+          'LANDING_TITLE' => '',
+          'LANDING_TPL_CODE' => '',
+          'SITE_TPL_CODE' => 'empty',
+          'XML_ID' => '',
+        ),
+      ),
+      5 => 
+      array (
+        'id' => 24849,
+        'lid' => 1281,
+        'code' => '08.2.two_cols_fix_title_and_text',
+        'name' => 'Текст в 2 колонки фиксированной ширины на светлом фоне',
+        'active' => true,
+        'meta' => 
+        array (
+          'CREATED_BY_ID' => '125',
+          'MODIFIED_BY_ID' => '125',
+          'DATE_CREATE' => '04.08.2020 21:18:10',
+          'DATE_MODIFY' => '04.08.2020 21:18:11',
+          'LANDING_TITLE' => '',
+          'LANDING_TPL_CODE' => '',
+          'SITE_TPL_CODE' => 'empty',
+          'XML_ID' => '',
+        ),
+      ),
+      6 => 
+      array (
+        'id' => 24851,
+        'lid' => 1281,
+        'code' => '26.separator',
+        'name' => 'Разделитель',
+        'active' => true,
+        'meta' => 
+        array (
+          'CREATED_BY_ID' => '125',
+          'MODIFIED_BY_ID' => '125',
+          'DATE_CREATE' => '04.08.2020 21:18:10',
+          'DATE_MODIFY' => '04.08.2020 21:18:11',
+          'LANDING_TITLE' => '',
+          'LANDING_TPL_CODE' => '',
+          'SITE_TPL_CODE' => 'empty',
+          'XML_ID' => '',
+        ),
+      ),
+      7 => 
+      array (
+        'id' => 24853,
+        'lid' => 1281,
+        'code' => '33.12.form_2_light_right_text',
+        'name' => 'Форма на светлом фоне с текстом справа',
+        'active' => true,
+        'meta' => 
+        array (
+          'CREATED_BY_ID' => '125',
+          'MODIFIED_BY_ID' => '125',
+          'DATE_CREATE' => '04.08.2020 21:18:10',
+          'DATE_MODIFY' => '04.08.2020 21:18:11',
+          'LANDING_TITLE' => '',
+          'LANDING_TPL_CODE' => '',
+          'SITE_TPL_CODE' => 'empty',
+          'XML_ID' => '',
+        ),
+      ),
+    ),
+    'time' => 
+    array (
+      'start' => 1596565151.269964,
+      'finish' => 1596565151.329633,
+      'duration' => 0.05966901779174805,
+      'processing' => 0.02057504653930664,
+      'date_start' => '2020-08-04T21:19:11+03:00',
+      'date_finish' => '2020-08-04T21:19:11+03:00',
+    ),
+  ),
+)

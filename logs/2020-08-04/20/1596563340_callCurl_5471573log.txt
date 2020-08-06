@@ -1,0 +1,79 @@
+array (
+  'url' => 'https://movens.bitrix24.ru/rest/landing.landing.addblock.json',
+  'info' => 
+  array (
+    'url' => 'https://movens.bitrix24.ru/rest/landing.landing.addblock.json',
+    'content_type' => 'application/json; charset=utf-8',
+    'http_code' => 400,
+    'header_size' => 1015,
+    'request_size' => 222,
+    'filetime' => -1,
+    'ssl_verify_result' => 0,
+    'redirect_count' => 0,
+    'total_time' => 0.14799099999999998,
+    'namelookup_time' => 2.1E-5,
+    'connect_time' => 0.010292,
+    'pretransfer_time' => 0.04897700000000005,
+    'size_upload' => 9899.0,
+    'size_download' => 280.0,
+    'speed_download' => 1892.0,
+    'speed_upload' => 66889.0,
+    'download_content_length' => -1.0,
+    'upload_content_length' => 9899.0,
+    'starttransfer_time' => 0.06050299999999997,
+    'redirect_time' => 0.0,
+    'redirect_url' => '',
+    'primary_ip' => '178.132.201.52',
+    'certinfo' => 
+    array (
+    ),
+    'primary_port' => 443,
+    'local_ip' => '10.1.159.210',
+    'local_port' => 47702,
+  ),
+  'params' => 
+  array (
+    'method' => 'landing.landing.addblock',
+    'params' => 
+    array (
+      'lid' => NULL,
+      'fields' => 
+      array (
+        'CODE' => '08.4.fix_title_and_text',
+        'AFTER_ID' => '',
+        'CONTENT' => '
+<section class="landing-block g-pb-80 js-animation animation-none g-pt-50" style="animation-duration: 1000ms; animation-play-state: running; animation-name: none;">
+	<div class="landing-block-node-container container js-animation fadeIn" style="animation-duration: 1000ms; animation-play-state: running; animation-name: none;">
+		<div class="landing-block-node-header u-heading-v2-4--bottom g-brd-primary g-mb-40">
+			<h2 class="landing-block-node-title text-uppercase h1 u-heading-v2__title g-line-height-1_3 g-font-weight-600 g-mb-minus-10 g-text-break-word g-font-size-33">Билеты на поезд 012А: Санкт-Петербург - Петрозаводск</h2>
+		</div>
+
+		<div class="landing-block-node-text g-font-size-16"><p>
+	 Хотите приобрести билеты на поезд № 012А&nbsp;следующий по маршруту Санкт-Петербург – Петрозаводск на российских железных дорогах? Мы с радостью поможем вам в оформлении как индивидуального билета для одного пассажира, так и групповой билет для организованных групп пассажиров учитывая все особенности возрастной группы.&nbsp;
+</p>
+<p>
+	 Поезд №012А&nbsp;отправляется от станции «Санкт-Петербург» в 23:20&nbsp;и прибывает на станцию «Петрозаводск» в Петрозаводск&nbsp;совершив 7&nbsp;ост. во время своего маршрута, чье общее количество времени составляет примерно: 7 часов 30 минут.
+</p>
+<p>
+	 Оформить билет на поезд 012А&nbsp;и оплатить его самостоятельно для одного пассажира вы можете с помощью онлайн формы мы представленной ниже, а та же вы можете обратиться к нам любым удобным для вас способом коммуникации представленный на сайте и мы сделаем это за вас предложив альтернативные варианты маршрута Санкт-Петербург – Петрозаводск, чтобы вы не упустили ничего важного.&nbsp;
+</p>
+<p>
+	 Для оформления групповых билетов на поезд №012А: Санкт-Петербург – Петрозаводск, вам необходимо будет предоставить список пассажиров не более чем за 90 дней до отправления состава (шаблон списка для заполнения). Если это организованная группа пассажиров школьного возраста (до 17 лет), то согласно Санитарно-эпидемиологическим правилам <a href="/food/sp-2-5-3157-14/">СП 2.5.3157 – 14</a>, детей нужно обеспечивать горячим питанием каждый 4 часа пути.&nbsp;
+</p>
+<p>
+	 Мы уже не первый год занимается перевозками пассажиров по маршруту Санкт-Петербург – Петрозаводск&nbsp;и знает о деталях оформления билетов все, что необходимо знать для предоставления максимально качественной услуги. Позвоните нам по телефону +7 (495) 414-22-42 и наши специалисты ответят на все ваши вопросы.&nbsp;
+</p></div>
+    
+    </div>
+</section>
+        ',
+      ),
+      'auth' => '05a6295f004b12ec002a97140000007d000003078a47f927029b461dd15ccb9971baec',
+    ),
+  ),
+  'result' => 
+  array (
+    'error' => 'MISSING_PARAMS',
+    'error_description' => 'Недостаточно параметров вызова, пропущены: lid',
+  ),
+)

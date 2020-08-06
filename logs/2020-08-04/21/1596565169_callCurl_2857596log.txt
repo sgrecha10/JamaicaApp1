@@ -1,0 +1,49 @@
+array (
+  'url' => 'https://movens.bitrix24.ru/rest/landing.landing.publication.json',
+  'info' => 
+  array (
+    'url' => 'https://movens.bitrix24.ru/rest/landing.landing.publication.json',
+    'content_type' => 'application/json',
+    'http_code' => 503,
+    'header_size' => 204,
+    'request_size' => 285,
+    'filetime' => -1,
+    'ssl_verify_result' => 0,
+    'redirect_count' => 0,
+    'total_time' => 0.052281,
+    'namelookup_time' => 2.5E-5,
+    'connect_time' => 0.010465,
+    'pretransfer_time' => 0.04152,
+    'size_upload' => 84.0,
+    'size_download' => 73.0,
+    'speed_download' => 1396.0,
+    'speed_upload' => 1606.0,
+    'download_content_length' => 73.0,
+    'upload_content_length' => 84.0,
+    'starttransfer_time' => 0.052249,
+    'redirect_time' => 0.0,
+    'redirect_url' => '',
+    'primary_ip' => '178.132.201.51',
+    'certinfo' => 
+    array (
+    ),
+    'primary_port' => 443,
+    'local_ip' => '10.1.159.210',
+    'local_port' => 37462,
+  ),
+  'params' => 
+  array (
+    'method' => 'landing.landing.publication',
+    'params' => 
+    array (
+      'lid' => '1287',
+      'auth' => '67b4295f004b12ec002a97140000007d000003055841a9606e9452e93ca997fdb17d8d',
+    ),
+  ),
+  'result' => 
+  array (
+    'error' => 'QUERY_LIMIT_EXCEEDED',
+    'error_description' => 'Too many requests',
+    'error_information' => 'Too many requests, maximum 2 query by second',
+  ),
+)

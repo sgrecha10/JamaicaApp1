@@ -1,0 +1,170 @@
+array (
+  'lid' => '1279',
+  'result' => 
+  array (
+    'result' => 
+    array (
+      0 => 
+      array (
+        'id' => 24807,
+        'lid' => 1279,
+        'code' => '08.4.fix_title_and_text',
+        'name' => 'Заголовок с текстом и разделителем',
+        'active' => true,
+        'meta' => 
+        array (
+          'CREATED_BY_ID' => '125',
+          'MODIFIED_BY_ID' => '125',
+          'DATE_CREATE' => '04.08.2020 21:18:03',
+          'DATE_MODIFY' => '04.08.2020 21:18:05',
+          'LANDING_TITLE' => '',
+          'LANDING_TPL_CODE' => '',
+          'SITE_TPL_CODE' => 'empty',
+          'XML_ID' => '',
+        ),
+      ),
+      1 => 
+      array (
+        'id' => 24809,
+        'lid' => 1279,
+        'code' => '04.1.one_col_fix_with_title',
+        'name' => 'Заголовок с разделителем на светлом фоне',
+        'active' => true,
+        'meta' => 
+        array (
+          'CREATED_BY_ID' => '125',
+          'MODIFIED_BY_ID' => '125',
+          'DATE_CREATE' => '04.08.2020 21:18:03',
+          'DATE_MODIFY' => '04.08.2020 21:18:05',
+          'LANDING_TITLE' => '',
+          'LANDING_TPL_CODE' => '',
+          'SITE_TPL_CODE' => 'empty',
+          'XML_ID' => '',
+        ),
+      ),
+      2 => 
+      array (
+        'id' => 24811,
+        'lid' => 1279,
+        'code' => 'html',
+        'name' => 'HTML код',
+        'active' => true,
+        'meta' => 
+        array (
+          'CREATED_BY_ID' => '125',
+          'MODIFIED_BY_ID' => '125',
+          'DATE_CREATE' => '04.08.2020 21:18:03',
+          'DATE_MODIFY' => '04.08.2020 21:18:05',
+          'LANDING_TITLE' => '',
+          'LANDING_TPL_CODE' => '',
+          'SITE_TPL_CODE' => 'empty',
+          'XML_ID' => '',
+        ),
+      ),
+      3 => 
+      array (
+        'id' => 24813,
+        'lid' => 1279,
+        'code' => '13.1.one_col_fix_text_and_button',
+        'name' => 'Текст с кнопкой по центру',
+        'active' => true,
+        'meta' => 
+        array (
+          'CREATED_BY_ID' => '125',
+          'MODIFIED_BY_ID' => '125',
+          'DATE_CREATE' => '04.08.2020 21:18:04',
+          'DATE_MODIFY' => '04.08.2020 21:18:05',
+          'LANDING_TITLE' => '',
+          'LANDING_TPL_CODE' => '',
+          'SITE_TPL_CODE' => 'empty',
+          'XML_ID' => '',
+        ),
+      ),
+      4 => 
+      array (
+        'id' => 24815,
+        'lid' => 1279,
+        'code' => '04.7.one_col_fix_with_title_and_text_2',
+        'name' => 'Заголовок с разделителем и текстом',
+        'active' => true,
+        'meta' => 
+        array (
+          'CREATED_BY_ID' => '125',
+          'MODIFIED_BY_ID' => '125',
+          'DATE_CREATE' => '04.08.2020 21:18:04',
+          'DATE_MODIFY' => '04.08.2020 21:18:05',
+          'LANDING_TITLE' => '',
+          'LANDING_TPL_CODE' => '',
+          'SITE_TPL_CODE' => 'empty',
+          'XML_ID' => '',
+        ),
+      ),
+      5 => 
+      array (
+        'id' => 24817,
+        'lid' => 1279,
+        'code' => '08.2.two_cols_fix_title_and_text',
+        'name' => 'Текст в 2 колонки фиксированной ширины на светлом фоне',
+        'active' => true,
+        'meta' => 
+        array (
+          'CREATED_BY_ID' => '125',
+          'MODIFIED_BY_ID' => '125',
+          'DATE_CREATE' => '04.08.2020 21:18:04',
+          'DATE_MODIFY' => '04.08.2020 21:18:05',
+          'LANDING_TITLE' => '',
+          'LANDING_TPL_CODE' => '',
+          'SITE_TPL_CODE' => 'empty',
+          'XML_ID' => '',
+        ),
+      ),
+      6 => 
+      array (
+        'id' => 24819,
+        'lid' => 1279,
+        'code' => '26.separator',
+        'name' => 'Разделитель',
+        'active' => true,
+        'meta' => 
+        array (
+          'CREATED_BY_ID' => '125',
+          'MODIFIED_BY_ID' => '125',
+          'DATE_CREATE' => '04.08.2020 21:18:04',
+          'DATE_MODIFY' => '04.08.2020 21:18:05',
+          'LANDING_TITLE' => '',
+          'LANDING_TPL_CODE' => '',
+          'SITE_TPL_CODE' => 'empty',
+          'XML_ID' => '',
+        ),
+      ),
+      7 => 
+      array (
+        'id' => 24821,
+        'lid' => 1279,
+        'code' => '33.12.form_2_light_right_text',
+        'name' => 'Форма на светлом фоне с текстом справа',
+        'active' => true,
+        'meta' => 
+        array (
+          'CREATED_BY_ID' => '125',
+          'MODIFIED_BY_ID' => '125',
+          'DATE_CREATE' => '04.08.2020 21:18:05',
+          'DATE_MODIFY' => '04.08.2020 21:18:05',
+          'LANDING_TITLE' => '',
+          'LANDING_TPL_CODE' => '',
+          'SITE_TPL_CODE' => 'empty',
+          'XML_ID' => '',
+        ),
+      ),
+    ),
+    'time' => 
+    array (
+      'start' => 1596565145.538931,
+      'finish' => 1596565145.586913,
+      'duration' => 0.047982215881347656,
+      'processing' => 0.017985105514526367,
+      'date_start' => '2020-08-04T21:19:05+03:00',
+      'date_finish' => '2020-08-04T21:19:05+03:00',
+    ),
+  ),
+)

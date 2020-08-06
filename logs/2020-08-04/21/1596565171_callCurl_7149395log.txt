@@ -1,0 +1,69 @@
+array (
+  'url' => 'https://movens.bitrix24.ru/rest/landing.landing.addblock.json',
+  'info' => 
+  array (
+    'url' => 'https://movens.bitrix24.ru/rest/landing.landing.addblock.json',
+    'content_type' => 'application/json',
+    'http_code' => 503,
+    'header_size' => 204,
+    'request_size' => 222,
+    'filetime' => -1,
+    'ssl_verify_result' => 0,
+    'redirect_count' => 0,
+    'total_time' => 0.063209,
+    'namelookup_time' => 2.8E-5,
+    'connect_time' => 0.011782,
+    'pretransfer_time' => 0.049642,
+    'size_upload' => 0.0,
+    'size_download' => 73.0,
+    'speed_download' => 1154.0,
+    'speed_upload' => 0.0,
+    'download_content_length' => 73.0,
+    'upload_content_length' => 2681.0,
+    'starttransfer_time' => 0.063172,
+    'redirect_time' => 0.0,
+    'redirect_url' => '',
+    'primary_ip' => '178.132.201.51',
+    'certinfo' => 
+    array (
+    ),
+    'primary_port' => 443,
+    'local_ip' => '10.1.159.210',
+    'local_port' => 37784,
+  ),
+  'params' => 
+  array (
+    'method' => 'landing.landing.addblock',
+    'params' => 
+    array (
+      'lid' => NULL,
+      'fields' => 
+      array (
+        'CODE' => '04.7.one_col_fix_with_title_and_text_2',
+        'AFTER_ID' => NULL,
+        'CONTENT' => '
+<section class="landing-block landing-semantic-background-color js-animation g-pb-20 g-bg-main animation-none g-pt-100 animated" style="animation-duration: 1000ms; animation-play-state: running;">
+
+	<div class="container text-center g-max-width-800">
+
+		<div class="landing-block-node-inner text-uppercase u-heading-v2-4--bottom g-brd-primary">
+			<h4 class="landing-block-node-subtitle landing-semantic-subtitle-medium-primary font-weight-bold g-font-size-12 g-color-primary g-mb-15">Поезд №011А: Петрозаводск – Санкт-Петербург</h4>
+			<h2 class="landing-block-node-title landing-semantic-title-medium u-heading-v2__title g-line-height-1_1 font-weight-bold g-font-size-40 g-color-black g-mb-minus-10">Узнать больше</h2>
+		</div>
+
+		<div class="landing-block-node-text landing-semantic-text-medium g-pb-1 g-mb-auto g-color-main">Вас интересуют дополнительные услуги по поезду 011А: Петрозаводск – Санкт-Петербург? Тогда, рекомендуем ознакомиться с представленной ниже информации или просто обратиться в наше агентство и наши специалисты объяснят вам все в режиме онлайн.</div>
+	</div>
+
+</section>
+        ',
+      ),
+      'auth' => '67b4295f004b12ec002a97140000007d000003055841a9606e9452e93ca997fdb17d8d',
+    ),
+  ),
+  'result' => 
+  array (
+    'error' => 'QUERY_LIMIT_EXCEEDED',
+    'error_description' => 'Too many requests',
+    'error_information' => 'Too many requests, maximum 2 query by second',
+  ),
+)

@@ -1,0 +1,54 @@
+array (
+  'url' => 'https://movens.bitrix24.ru/rest/landing.landing.update.json',
+  'info' => 
+  array (
+    'url' => 'https://movens.bitrix24.ru/rest/landing.landing.update.json',
+    'content_type' => 'application/json',
+    'http_code' => 503,
+    'header_size' => 204,
+    'request_size' => 220,
+    'filetime' => -1,
+    'ssl_verify_result' => 0,
+    'redirect_count' => 0,
+    'total_time' => 0.061946,
+    'namelookup_time' => 1.9E-5,
+    'connect_time' => 0.011982,
+    'pretransfer_time' => 0.049573,
+    'size_upload' => 0.0,
+    'size_download' => 73.0,
+    'speed_download' => 1178.0,
+    'speed_upload' => 0.0,
+    'download_content_length' => 73.0,
+    'upload_content_length' => 2053.0,
+    'starttransfer_time' => 0.061918,
+    'redirect_time' => 0.0,
+    'redirect_url' => '',
+    'primary_ip' => '178.132.201.52',
+    'certinfo' => 
+    array (
+    ),
+    'primary_port' => 443,
+    'local_ip' => '10.1.159.210',
+    'local_port' => 49812,
+  ),
+  'params' => 
+  array (
+    'method' => 'landing.landing.update',
+    'params' => 
+    array (
+      'lid' => '1307',
+      'fields' => 
+      array (
+        'TITLE' => 'Билеты на поезд 027А: Санкт-Петербург - Москва',
+        'DESCRIPTION' => 'Купить билет на поезд 027А (Северная Пальмира) следующий по маршруту Санкт-Петербург - Москва и оплатить его самостоятельно для одного или нескольких пассажиров вы можете с помощью онлайн формы. Помните, что поезд №027А оправляется в 23:36 и прибывает в Москва спустя 7 часов 43 минуты, количество остановок во время пути составляет 1 ст..',
+      ),
+      'auth' => '05a6295f004b12ec002a97140000007d000003078a47f927029b461dd15ccb9971baec',
+    ),
+  ),
+  'result' => 
+  array (
+    'error' => 'QUERY_LIMIT_EXCEEDED',
+    'error_description' => 'Too many requests',
+    'error_information' => 'Too many requests, maximum 2 query by second',
+  ),
+)

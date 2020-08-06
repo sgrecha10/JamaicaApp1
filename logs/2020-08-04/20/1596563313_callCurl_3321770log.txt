@@ -1,0 +1,76 @@
+array (
+  'url' => 'https://movens.bitrix24.ru/rest/landing.landing.addblock.json',
+  'info' => 
+  array (
+    'url' => 'https://movens.bitrix24.ru/rest/landing.landing.addblock.json',
+    'content_type' => 'application/json; charset=utf-8',
+    'http_code' => 200,
+    'header_size' => 1262,
+    'request_size' => 222,
+    'filetime' => -1,
+    'ssl_verify_result' => 0,
+    'redirect_count' => 0,
+    'total_time' => 0.192033,
+    'namelookup_time' => 2.4E-5,
+    'connect_time' => 0.012137,
+    'pretransfer_time' => 0.046006,
+    'size_upload' => 2645.0,
+    'size_download' => 226.0,
+    'speed_download' => 1176.0,
+    'speed_upload' => 13773.0,
+    'download_content_length' => -1.0,
+    'upload_content_length' => 2645.0,
+    'starttransfer_time' => 0.059573,
+    'redirect_time' => 0.0,
+    'redirect_url' => '',
+    'primary_ip' => '178.132.201.52',
+    'certinfo' => 
+    array (
+    ),
+    'primary_port' => 443,
+    'local_ip' => '10.1.159.210',
+    'local_port' => 42544,
+  ),
+  'params' => 
+  array (
+    'method' => 'landing.landing.addblock',
+    'params' => 
+    array (
+      'lid' => '1279',
+      'fields' => 
+      array (
+        'CODE' => '04.7.one_col_fix_with_title_and_text_2',
+        'AFTER_ID' => 24337,
+        'CONTENT' => '
+<section class="landing-block landing-semantic-background-color js-animation g-pb-20 g-bg-main animation-none g-pt-100 animated" style="animation-duration: 1000ms; animation-play-state: running;">
+
+	<div class="container text-center g-max-width-800">
+
+		<div class="landing-block-node-inner text-uppercase u-heading-v2-4--bottom g-brd-primary">
+			<h4 class="landing-block-node-subtitle landing-semantic-subtitle-medium-primary font-weight-bold g-font-size-12 g-color-primary g-mb-15">Поезд №001А: Санкт-Петербург – Москва</h4>
+			<h2 class="landing-block-node-title landing-semantic-title-medium u-heading-v2__title g-line-height-1_1 font-weight-bold g-font-size-40 g-color-black g-mb-minus-10">Узнать больше</h2>
+		</div>
+
+		<div class="landing-block-node-text landing-semantic-text-medium g-pb-1 g-mb-auto g-color-main">Вас интересуют дополнительные услуги по поезду 001А: Санкт-Петербург – Москва? Тогда, рекомендуем ознакомиться с представленной ниже информации или просто обратиться в наше агентство и наши специалисты объяснят вам все в режиме онлайн.</div>
+	</div>
+
+</section>
+        ',
+      ),
+      'auth' => '05a6295f004b12ec002a97140000007d000003078a47f927029b461dd15ccb9971baec',
+    ),
+  ),
+  'result' => 
+  array (
+    'result' => 24339,
+    'time' => 
+    array (
+      'start' => 1596563313.644233,
+      'finish' => 1596563313.711284,
+      'duration' => 0.06705093383789062,
+      'processing' => 0.0404510498046875,
+      'date_start' => '2020-08-04T20:48:33+03:00',
+      'date_finish' => '2020-08-04T20:48:33+03:00',
+    ),
+  ),
+)

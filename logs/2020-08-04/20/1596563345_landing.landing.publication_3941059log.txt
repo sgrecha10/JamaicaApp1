@@ -1,0 +1,8 @@
+array (
+  'lid' => NULL,
+  'result' => 
+  array (
+    'error' => 'MISSING_PARAMS',
+    'error_description' => 'Недостаточно параметров вызова, пропущены: lid',
+  ),
+)

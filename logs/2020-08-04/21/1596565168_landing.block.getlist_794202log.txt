@@ -1,0 +1,56 @@
+array (
+  'lid' => '1287',
+  'result' => 
+  array (
+    'result' => 
+    array (
+      0 => 
+      array (
+        'id' => 24787,
+        'lid' => 1287,
+        'code' => '08.2.two_cols_fix_title_and_text',
+        'name' => 'Текст в 2 колонки фиксированной ширины на светлом фоне',
+        'active' => true,
+        'meta' => 
+        array (
+          'CREATED_BY_ID' => '125',
+          'MODIFIED_BY_ID' => '125',
+          'DATE_CREATE' => '04.08.2020 21:12:56',
+          'DATE_MODIFY' => '04.08.2020 21:12:56',
+          'LANDING_TITLE' => '',
+          'LANDING_TPL_CODE' => '',
+          'SITE_TPL_CODE' => 'empty',
+          'XML_ID' => '',
+        ),
+      ),
+      1 => 
+      array (
+        'id' => 24785,
+        'lid' => 1287,
+        'code' => '08.4.fix_title_and_text',
+        'name' => 'Заголовок с текстом и разделителем',
+        'active' => true,
+        'meta' => 
+        array (
+          'CREATED_BY_ID' => '125',
+          'MODIFIED_BY_ID' => '125',
+          'DATE_CREATE' => '04.08.2020 21:12:56',
+          'DATE_MODIFY' => '04.08.2020 21:12:56',
+          'LANDING_TITLE' => '',
+          'LANDING_TPL_CODE' => '',
+          'SITE_TPL_CODE' => 'empty',
+          'XML_ID' => '',
+        ),
+      ),
+    ),
+    'time' => 
+    array (
+      'start' => 1596565168.023864,
+      'finish' => 1596565168.065164,
+      'duration' => 0.041300058364868164,
+      'processing' => 0.014123201370239258,
+      'date_start' => '2020-08-04T21:19:28+03:00',
+      'date_finish' => '2020-08-04T21:19:28+03:00',
+    ),
+  ),
+)

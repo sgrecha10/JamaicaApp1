@@ -1,0 +1,57 @@
+array (
+  'url' => 'https://movens.bitrix24.ru/rest/landing.landing.deleteblock.json',
+  'info' => 
+  array (
+    'url' => 'https://movens.bitrix24.ru/rest/landing.landing.deleteblock.json',
+    'content_type' => 'application/json; charset=utf-8',
+    'http_code' => 200,
+    'header_size' => 1237,
+    'request_size' => 297,
+    'filetime' => -1,
+    'ssl_verify_result' => 0,
+    'redirect_count' => 0,
+    'total_time' => 0.156653,
+    'namelookup_time' => 2.2E-5,
+    'connect_time' => 0.010293,
+    'pretransfer_time' => 0.043676,
+    'size_upload' => 96.0,
+    'size_download' => 228.0,
+    'speed_download' => 1455.0,
+    'speed_upload' => 612.0,
+    'download_content_length' => -1.0,
+    'upload_content_length' => 96.0,
+    'starttransfer_time' => 0.156622,
+    'redirect_time' => 0.0,
+    'redirect_url' => '',
+    'primary_ip' => '178.132.201.52',
+    'certinfo' => 
+    array (
+    ),
+    'primary_port' => 443,
+    'local_ip' => '10.1.159.210',
+    'local_port' => 43268,
+  ),
+  'params' => 
+  array (
+    'method' => 'landing.landing.deleteblock',
+    'params' => 
+    array (
+      'lid' => '1281',
+      'block' => 22691,
+      'auth' => '05a6295f004b12ec002a97140000007d000003078a47f927029b461dd15ccb9971baec',
+    ),
+  ),
+  'result' => 
+  array (
+    'result' => true,
+    'time' => 
+    array (
+      'start' => 1596563317.354258,
+      'finish' => 1596563317.408153,
+      'duration' => 0.053894996643066406,
+      'processing' => 0.028023958206176758,
+      'date_start' => '2020-08-04T20:48:37+03:00',
+      'date_finish' => '2020-08-04T20:48:37+03:00',
+    ),
+  ),
+)

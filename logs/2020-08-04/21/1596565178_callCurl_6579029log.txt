@@ -1,0 +1,54 @@
+array (
+  'url' => 'https://movens.bitrix24.ru/rest/landing.landing.update.json',
+  'info' => 
+  array (
+    'url' => 'https://movens.bitrix24.ru/rest/landing.landing.update.json',
+    'content_type' => 'application/json',
+    'http_code' => 503,
+    'header_size' => 204,
+    'request_size' => 220,
+    'filetime' => -1,
+    'ssl_verify_result' => 0,
+    'redirect_count' => 0,
+    'total_time' => 0.061263,
+    'namelookup_time' => 2.3E-5,
+    'connect_time' => 0.010348,
+    'pretransfer_time' => 0.050611,
+    'size_upload' => 0.0,
+    'size_download' => 73.0,
+    'speed_download' => 1191.0,
+    'speed_upload' => 0.0,
+    'download_content_length' => 73.0,
+    'upload_content_length' => 1967.0,
+    'starttransfer_time' => 0.061232,
+    'redirect_time' => 0.0,
+    'redirect_url' => '',
+    'primary_ip' => '178.132.201.51',
+    'certinfo' => 
+    array (
+    ),
+    'primary_port' => 443,
+    'local_ip' => '10.1.159.210',
+    'local_port' => 39192,
+  ),
+  'params' => 
+  array (
+    'method' => 'landing.landing.update',
+    'params' => 
+    array (
+      'lid' => '1299',
+      'fields' => 
+      array (
+        'TITLE' => 'Билеты на поезд 017А: Петрозаводск - Москва',
+        'DESCRIPTION' => 'Купить билет на поезд 017А (Карелия) следующий по маршруту Петрозаводск - Москва и оплатить его самостоятельно для одного или нескольких пассажиров вы можете с помощью онлайн формы. Помните, что поезд №017А оправляется в 22:00 и прибывает в Москва спустя 10 часов 50 минут, количество остановок во время пути составляет 8 ст..',
+      ),
+      'auth' => '67b4295f004b12ec002a97140000007d000003055841a9606e9452e93ca997fdb17d8d',
+    ),
+  ),
+  'result' => 
+  array (
+    'error' => 'QUERY_LIMIT_EXCEEDED',
+    'error_description' => 'Too many requests',
+    'error_information' => 'Too many requests, maximum 2 query by second',
+  ),
+)

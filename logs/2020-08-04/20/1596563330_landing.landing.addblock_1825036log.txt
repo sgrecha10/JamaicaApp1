@@ -1,0 +1,35 @@
+array (
+  'fields' => 
+  array (
+    'CODE' => '04.7.one_col_fix_with_title_and_text_2',
+    'AFTER_ID' => 24433,
+    'CONTENT' => '
+<section class="landing-block landing-semantic-background-color js-animation g-pb-20 g-bg-main animation-none g-pt-100 animated" style="animation-duration: 1000ms; animation-play-state: running;">
+
+	<div class="container text-center g-max-width-800">
+
+		<div class="landing-block-node-inner text-uppercase u-heading-v2-4--bottom g-brd-primary">
+			<h4 class="landing-block-node-subtitle landing-semantic-subtitle-medium-primary font-weight-bold g-font-size-12 g-color-primary g-mb-15">Поезд №004А: Москва – Санкт-Петербург</h4>
+			<h2 class="landing-block-node-title landing-semantic-title-medium u-heading-v2__title g-line-height-1_1 font-weight-bold g-font-size-40 g-color-black g-mb-minus-10">Узнать больше</h2>
+		</div>
+
+		<div class="landing-block-node-text landing-semantic-text-medium g-pb-1 g-mb-auto g-color-main">Вас интересуют дополнительные услуги по поезду 004А: Москва – Санкт-Петербург? Тогда, рекомендуем ознакомиться с представленной ниже информации или просто обратиться в наше агентство и наши специалисты объяснят вам все в режиме онлайн.</div>
+	</div>
+
+</section>
+        ',
+  ),
+  'result' => 
+  array (
+    'result' => 24435,
+    'time' => 
+    array (
+      'start' => 1596563329.944309,
+      'finish' => 1596563330.009753,
+      'duration' => 0.0654439926147461,
+      'processing' => 0.04087996482849121,
+      'date_start' => '2020-08-04T20:48:49+03:00',
+      'date_finish' => '2020-08-04T20:48:50+03:00',
+    ),
+  ),
+)

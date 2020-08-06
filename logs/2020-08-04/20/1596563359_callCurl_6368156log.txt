@@ -1,0 +1,48 @@
+array (
+  'url' => 'https://movens.bitrix24.ru/rest/landing.landing.publication.json',
+  'info' => 
+  array (
+    'url' => 'https://movens.bitrix24.ru/rest/landing.landing.publication.json',
+    'content_type' => 'application/json; charset=utf-8',
+    'http_code' => 400,
+    'header_size' => 990,
+    'request_size' => 276,
+    'filetime' => -1,
+    'ssl_verify_result' => 0,
+    'redirect_count' => 0,
+    'total_time' => 0.13282499999999997,
+    'namelookup_time' => 2.2E-5,
+    'connect_time' => 0.010446,
+    'pretransfer_time' => 0.04051199999999999,
+    'size_upload' => 75.0,
+    'size_download' => 280.0,
+    'speed_download' => 2108.0,
+    'speed_upload' => 564.0,
+    'download_content_length' => -1.0,
+    'upload_content_length' => 75.0,
+    'starttransfer_time' => 0.13279200000000002,
+    'redirect_time' => 0.0,
+    'redirect_url' => '',
+    'primary_ip' => '178.132.201.52',
+    'certinfo' => 
+    array (
+    ),
+    'primary_port' => 443,
+    'local_ip' => '10.1.159.210',
+    'local_port' => 52132,
+  ),
+  'params' => 
+  array (
+    'method' => 'landing.landing.publication',
+    'params' => 
+    array (
+      'lid' => NULL,
+      'auth' => '05a6295f004b12ec002a97140000007d000003078a47f927029b461dd15ccb9971baec',
+    ),
+  ),
+  'result' => 
+  array (
+    'error' => 'MISSING_PARAMS',
+    'error_description' => 'Недостаточно параметров вызова, пропущены: lid',
+  ),
+)

@@ -1,0 +1,61 @@
+array (
+  'url' => 'https://movens.bitrix24.ru/rest/landing.landing.addblock.json',
+  'info' => 
+  array (
+    'url' => 'https://movens.bitrix24.ru/rest/landing.landing.addblock.json',
+    'content_type' => 'application/json',
+    'http_code' => 503,
+    'header_size' => 204,
+    'request_size' => 530,
+    'filetime' => -1,
+    'ssl_verify_result' => 0,
+    'redirect_count' => 0,
+    'total_time' => 0.05897,
+    'namelookup_time' => 2.2E-5,
+    'connect_time' => 0.012081,
+    'pretransfer_time' => 0.045513,
+    'size_upload' => 331.0,
+    'size_download' => 73.0,
+    'speed_download' => 1237.0,
+    'speed_upload' => 5613.0,
+    'download_content_length' => 73.0,
+    'upload_content_length' => 331.0,
+    'starttransfer_time' => 0.058946,
+    'redirect_time' => 0.0,
+    'redirect_url' => '',
+    'primary_ip' => '178.132.201.52',
+    'certinfo' => 
+    array (
+    ),
+    'primary_port' => 443,
+    'local_ip' => '10.1.159.210',
+    'local_port' => 52908,
+  ),
+  'params' => 
+  array (
+    'method' => 'landing.landing.addblock',
+    'params' => 
+    array (
+      'lid' => 1389,
+      'fields' => 
+      array (
+        'CODE' => '26.separator',
+        'AFTER_ID' => NULL,
+        'CONTENT' => '
+<section class="landing-block g-pt-10 g-pb-10">
+
+        <hr class="landing-block-line landing-semantic-border my-0 g-brd-gray-dark-v1">
+
+</section>
+        ',
+      ),
+      'auth' => '05a6295f004b12ec002a97140000007d000003078a47f927029b461dd15ccb9971baec',
+    ),
+  ),
+  'result' => 
+  array (
+    'error' => 'QUERY_LIMIT_EXCEEDED',
+    'error_description' => 'Too many requests',
+    'error_information' => 'Too many requests, maximum 2 query by second',
+  ),
+)

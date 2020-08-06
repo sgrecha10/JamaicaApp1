@@ -1,0 +1,77 @@
+array (
+  'url' => 'https://movens.bitrix24.ru/rest/landing.landing.addblock.json',
+  'info' => 
+  array (
+    'url' => 'https://movens.bitrix24.ru/rest/landing.landing.addblock.json',
+    'content_type' => 'application/json',
+    'http_code' => 503,
+    'header_size' => 204,
+    'request_size' => 222,
+    'filetime' => -1,
+    'ssl_verify_result' => 0,
+    'redirect_count' => 0,
+    'total_time' => 0.05939,
+    'namelookup_time' => 2.3E-5,
+    'connect_time' => 0.011991,
+    'pretransfer_time' => 0.045595,
+    'size_upload' => 0.0,
+    'size_download' => 73.0,
+    'speed_download' => 1229.0,
+    'speed_upload' => 0.0,
+    'download_content_length' => 73.0,
+    'upload_content_length' => 3079.0,
+    'starttransfer_time' => 0.059353,
+    'redirect_time' => 0.0,
+    'redirect_url' => '',
+    'primary_ip' => '178.132.201.51',
+    'certinfo' => 
+    array (
+    ),
+    'primary_port' => 443,
+    'local_ip' => '10.1.159.210',
+    'local_port' => 37688,
+  ),
+  'params' => 
+  array (
+    'method' => 'landing.landing.addblock',
+    'params' => 
+    array (
+      'lid' => NULL,
+      'fields' => 
+      array (
+        'CODE' => 'html',
+        'AFTER_ID' => NULL,
+        'CONTENT' => '<section class="landing-block g-pl-0 g-pr-0 g-bg-white g-pb-100 g-pt-50"><div class="html-block"><table width="100%"><tbody><tr><th>Станция</th><th>Прибытие</th><th>Стоянка</th><th>Отправление</th><th>Время в пути</th></tr><tr><td>
+ Петрозаводск-Пасс
+ </td><td></td><td></td><td>22:40</td><td></td></tr><tr><td>
+ Деревянка
+ </td><td>23:10</td><td>1 м</td><td>23:11</td><td>30 м</td></tr><tr><td>
+ Пяжиева Сельга
+ </td><td>23:22</td><td>1 м</td><td>23:23</td><td>41 м</td></tr><tr><td>
+ Ладва
+ </td><td>23:39</td><td>1 м</td><td>23:40</td><td>57 м</td></tr><tr><td>
+ Пай
+ </td><td>23:56</td><td>1 м</td><td>23:57</td><td>1 ч 13 м</td></tr><tr><td>
+ Токари
+ </td><td>00:10</td><td>1 м</td><td>00:11</td><td>1 ч 26 м</td></tr><tr><td>
+ Свирь
+ </td><td>00:37</td><td>50 м</td><td>01:27</td><td>1 ч 52 м</td></tr><tr><td>
+ Подпорожье
+ </td><td>01:42</td><td>2 м</td><td>01:44</td><td>2 ч 7 м</td></tr><tr><td>
+ Лодейное Поле
+ </td><td>02:18</td><td>25 м</td><td>02:43</td><td>2 ч 41 м</td></tr><tr><td>
+ Волховстрой 1
+ </td><td>04:18</td><td>10 м</td><td>04:28</td><td>4 ч 16 м</td></tr><tr><td>
+ Санкт-Петербург Ладож.
+ </td><td>06:24</td><td></td><td></td><td>6 ч 12 м</td></tr></tbody></table></div></section>',
+      ),
+      'auth' => '67b4295f004b12ec002a97140000007d000003055841a9606e9452e93ca997fdb17d8d',
+    ),
+  ),
+  'result' => 
+  array (
+    'error' => 'QUERY_LIMIT_EXCEEDED',
+    'error_description' => 'Too many requests',
+    'error_information' => 'Too many requests, maximum 2 query by second',
+  ),
+)

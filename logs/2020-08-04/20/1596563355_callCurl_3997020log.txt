@@ -1,0 +1,56 @@
+array (
+  'url' => 'https://movens.bitrix24.ru/rest/landing.block.updateattrs.json',
+  'info' => 
+  array (
+    'url' => 'https://movens.bitrix24.ru/rest/landing.block.updateattrs.json',
+    'content_type' => 'application/json; charset=utf-8',
+    'http_code' => 400,
+    'header_size' => 990,
+    'request_size' => 330,
+    'filetime' => -1,
+    'ssl_verify_result' => 0,
+    'redirect_count' => 0,
+    'total_time' => 0.135413,
+    'namelookup_time' => 2.0E-5,
+    'connect_time' => 0.011750000000000038,
+    'pretransfer_time' => 0.04946700000000004,
+    'size_upload' => 130.0,
+    'size_download' => 287.0,
+    'speed_download' => 2119.0,
+    'speed_upload' => 960.0,
+    'download_content_length' => -1.0,
+    'upload_content_length' => 130.0,
+    'starttransfer_time' => 0.13537900000000003,
+    'redirect_time' => 0.0,
+    'redirect_url' => '',
+    'primary_ip' => '178.132.201.52',
+    'certinfo' => 
+    array (
+    ),
+    'primary_port' => 443,
+    'local_ip' => '10.1.159.210',
+    'local_port' => 51116,
+  ),
+  'params' => 
+  array (
+    'method' => 'landing.block.updateattrs',
+    'params' => 
+    array (
+      'lid' => NULL,
+      'block' => NULL,
+      'data' => 
+      array (
+        '.bitrix24forms' => 
+        array (
+          'data-b24form' => '37|bvr7kg',
+        ),
+      ),
+      'auth' => '05a6295f004b12ec002a97140000007d000003078a47f927029b461dd15ccb9971baec',
+    ),
+  ),
+  'result' => 
+  array (
+    'error' => 'MISSING_PARAMS',
+    'error_description' => 'Недостаточно параметров вызова, пропущены: lid, block',
+  ),
+)

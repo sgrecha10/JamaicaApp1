@@ -1,0 +1,28 @@
+array (
+  'fields' => 
+  array (
+    'CODE' => '13.1.one_col_fix_text_and_button',
+    'AFTER_ID' => 24479,
+    'CONTENT' => '
+<section class="landing-block g-bg-gray-light-v5 g-pt-40 g-pb-40">
+	<div class="container">
+		<div class="landing-block-node-container row g-flex-centered align-items-end">
+			<div class="landing-block-node-button-container text-left col-4 js-animation slideInLeft" style="animation-duration: 1000ms; animation-play-state: running; animation-name: none;">
+				<a class="landing-block-node-button landing-semantic-link-image-medium btn btn-sm text-uppercase u-btn-primary rounded-0 g-px-15 font-weight-bold g-mb-0 g-brd-10" href="/tickets/train/" target="_self">Купить билет онлайн</a>
+			</div>
+			<div class="landing-block-node-text-container text-right col-8 js-animation slideInRight" style="animation-duration: 1000ms; animation-play-state: running; animation-name: none;">
+				<h6 class="landing-block-node-title landing-semantic-text-medium h6 g-mb-0 font-weight-bold">Отдел групповых ЖД билетов</h6>
+				<div class="landing-block-node-text landing-semantic-text-small g-font-size-14">+7 (495) 414-22-42, 103</div>
+			</div>
+		</div>
+	</div>
+</section>
+        ',
+  ),
+  'result' => 
+  array (
+    'error' => 'QUERY_LIMIT_EXCEEDED',
+    'error_description' => 'Too many requests',
+    'error_information' => 'Too many requests, maximum 2 query by second',
+  ),
+)

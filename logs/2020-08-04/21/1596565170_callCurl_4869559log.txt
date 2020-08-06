@@ -1,0 +1,60 @@
+array (
+  'url' => 'https://movens.bitrix24.ru/rest/landing.landing.getList.json',
+  'info' => 
+  array (
+    'url' => 'https://movens.bitrix24.ru/rest/landing.landing.getList.json',
+    'content_type' => 'application/json',
+    'http_code' => 503,
+    'header_size' => 204,
+    'request_size' => 375,
+    'filetime' => -1,
+    'ssl_verify_result' => 0,
+    'redirect_count' => 0,
+    'total_time' => 0.059535,
+    'namelookup_time' => 2.4E-5,
+    'connect_time' => 0.01205,
+    'pretransfer_time' => 0.046866,
+    'size_upload' => 177.0,
+    'size_download' => 73.0,
+    'speed_download' => 1226.0,
+    'speed_upload' => 2973.0,
+    'download_content_length' => 73.0,
+    'upload_content_length' => 177.0,
+    'starttransfer_time' => 0.05951,
+    'redirect_time' => 0.0,
+    'redirect_url' => '',
+    'primary_ip' => '178.132.201.51',
+    'certinfo' => 
+    array (
+    ),
+    'primary_port' => 443,
+    'local_ip' => '10.1.159.210',
+    'local_port' => 37646,
+  ),
+  'params' => 
+  array (
+    'method' => 'landing.landing.getList',
+    'params' => 
+    array (
+      'params' => 
+      array (
+        'select' => 
+        array (
+          0 => 'ID',
+        ),
+        'filter' => 
+        array (
+          'XML_ID' => '176213',
+          'SITE_ID' => 23,
+        ),
+      ),
+      'auth' => '67b4295f004b12ec002a97140000007d000003055841a9606e9452e93ca997fdb17d8d',
+    ),
+  ),
+  'result' => 
+  array (
+    'error' => 'QUERY_LIMIT_EXCEEDED',
+    'error_description' => 'Too many requests',
+    'error_information' => 'Too many requests, maximum 2 query by second',
+  ),
+)

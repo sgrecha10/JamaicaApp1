@@ -1,0 +1,27 @@
+array (
+  'fields' => 
+  array (
+    'CODE' => '26.separator',
+    'AFTER_ID' => 24341,
+    'CONTENT' => '
+<section class="landing-block g-pt-10 g-pb-10">
+
+        <hr class="landing-block-line landing-semantic-border my-0 g-brd-gray-dark-v1">
+
+</section>
+        ',
+  ),
+  'result' => 
+  array (
+    'result' => 24343,
+    'time' => 
+    array (
+      'start' => 1596563314.021567,
+      'finish' => 1596563314.085231,
+      'duration' => 0.06366395950317383,
+      'processing' => 0.039045095443725586,
+      'date_start' => '2020-08-04T20:48:34+03:00',
+      'date_finish' => '2020-08-04T20:48:34+03:00',
+    ),
+  ),
+)

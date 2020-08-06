@@ -1,0 +1,73 @@
+array (
+  'fields' => 
+  array (
+    'CODE' => 'html',
+    'AFTER_ID' => 24333,
+    'CONTENT' => '<section class="landing-block g-pl-0 g-pr-0 g-bg-white g-pb-100 g-pt-50"><div class="html-block">
+	<table width="100%">
+	<tbody>
+	<tr>
+		<th>
+			 Станция
+		</th>
+		<th>
+			 Прибытие
+		</th>
+		<th>
+			 Стоянка
+		</th>
+		<th>
+			 Отправление
+		</th>
+		<th>
+			 Время в пути
+		</th>
+	</tr>
+	<tr>
+		<td>
+			 Санкт-Петербург-Главн.
+		</td>
+		<td>
+		</td>
+		<td>
+		</td>
+		<td>
+			 23:55
+		</td>
+		<td>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			 Москва Октябрьская
+		</td>
+		<td>
+			 07:55
+		</td>
+		<td>
+		</td>
+		<td>
+		</td>
+		<td>
+			 8 ч
+		</td>
+	</tr>
+	</tbody>
+	</table>
+</div>
+<br></section>',
+  ),
+  'result' => 
+  array (
+    'result' => 24335,
+    'time' => 
+    array (
+      'start' => 1596563313.251368,
+      'finish' => 1596563313.315757,
+      'duration' => 0.06438899040222168,
+      'processing' => 0.03861808776855469,
+      'date_start' => '2020-08-04T20:48:33+03:00',
+      'date_finish' => '2020-08-04T20:48:33+03:00',
+    ),
+  ),
+)

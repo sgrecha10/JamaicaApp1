@@ -1,0 +1,31 @@
+array (
+  'fields' => 
+  array (
+    'CODE' => 'html',
+    'AFTER_ID' => NULL,
+    'CONTENT' => '<section class="landing-block g-pl-0 g-pr-0 g-bg-white g-pb-100 g-pt-50"><div class="html-block"><table width="100%"><tbody><tr><th>Станция</th><th>Прибытие</th><th>Стоянка</th><th>Отправление</th><th>Время в пути</th></tr><tr><td>
+ Москва Октябрьская
+ </td><td></td><td></td><td>22:15</td><td></td></tr><tr><td>
+ Тверь
+ </td><td>00:07</td><td>1 м</td><td>00:08</td><td>1 ч 52 м</td></tr><tr><td>
+ Санкт-Петербург-Главн.
+ </td><td>05:39</td><td>46 м</td><td>06:25</td><td>7 ч 23 м</td></tr><tr><td>
+ Кингисепп
+ </td><td>09:02</td><td>2 м</td><td>09:04</td><td>10 ч</td></tr><tr><td>
+ Ивангород Нарвский
+ </td><td>09:24</td><td>1 ч</td><td>10:24</td><td>10 ч 20 м</td></tr><tr><td>
+ Нарва
+ </td><td>10:30</td><td>45 м</td><td>11:15</td><td>10 ч 26 м</td></tr><tr><td>
+ Йыхви
+ </td><td>11:50</td><td>1 м</td><td>11:51</td><td>11 ч 1 м</td></tr><tr><td>
+ Тапа
+ </td><td>13:02</td><td>1 м</td><td>13:03</td><td>12 ч 12 м</td></tr><tr><td>
+ Таллинн Пассажирский
+ </td><td>13:56</td><td></td><td></td><td>13 ч 5 м</td></tr></tbody></table></div></section>',
+  ),
+  'result' => 
+  array (
+    'error' => 'MISSING_PARAMS',
+    'error_description' => 'Недостаточно параметров вызова, пропущены: lid',
+  ),
+)

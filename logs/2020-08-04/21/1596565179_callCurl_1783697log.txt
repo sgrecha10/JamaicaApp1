@@ -1,0 +1,64 @@
+array (
+  'url' => 'https://movens.bitrix24.ru/rest/landing.landing.addblock.json',
+  'info' => 
+  array (
+    'url' => 'https://movens.bitrix24.ru/rest/landing.landing.addblock.json',
+    'content_type' => 'application/json',
+    'http_code' => 503,
+    'header_size' => 204,
+    'request_size' => 222,
+    'filetime' => -1,
+    'ssl_verify_result' => 0,
+    'redirect_count' => 0,
+    'total_time' => 0.055113,
+    'namelookup_time' => 3.2E-5,
+    'connect_time' => 0.010233,
+    'pretransfer_time' => 0.044184,
+    'size_upload' => 0.0,
+    'size_download' => 73.0,
+    'speed_download' => 1324.0,
+    'speed_upload' => 0.0,
+    'download_content_length' => 73.0,
+    'upload_content_length' => 1188.0,
+    'starttransfer_time' => 0.05508,
+    'redirect_time' => 0.0,
+    'redirect_url' => '',
+    'primary_ip' => '178.132.201.51',
+    'certinfo' => 
+    array (
+    ),
+    'primary_port' => 443,
+    'local_ip' => '10.1.159.210',
+    'local_port' => 39492,
+  ),
+  'params' => 
+  array (
+    'method' => 'landing.landing.addblock',
+    'params' => 
+    array (
+      'lid' => 1393,
+      'fields' => 
+      array (
+        'CODE' => '04.1.one_col_fix_with_title',
+        'AFTER_ID' => NULL,
+        'CONTENT' => '
+<section class="landing-block js-animation g-pt-20 g-pb-20 g-bg-gray-light-v5 animation-none" style="animation-duration: 1000ms; visibility: hidden; animation-name: none; animation-play-state: paused;">
+        <div class="container">
+            <div class="landing-block-node-inner text-uppercase text-center u-heading-v2-4--bottom g-brd-primary">
+                <h4 class="landing-block-node-subtitle h6 g-font-weight-800 g-font-size-12 g-letter-spacing-1 g-color-primary g-mb-20">Расписание поезда 018А</h4>
+                <h2 class="landing-block-node-title h1 u-heading-v2__title g-line-height-1_3 g-font-weight-600 g-mb-minus-10 g-font-size-30">Москва – Петрозаводск</h2>
+            </div>
+        </div>
+</section>
+        ',
+      ),
+      'auth' => '67b4295f004b12ec002a97140000007d000003055841a9606e9452e93ca997fdb17d8d',
+    ),
+  ),
+  'result' => 
+  array (
+    'error' => 'QUERY_LIMIT_EXCEEDED',
+    'error_description' => 'Too many requests',
+    'error_information' => 'Too many requests, maximum 2 query by second',
+  ),
+)

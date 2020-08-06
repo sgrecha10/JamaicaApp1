@@ -1,0 +1,114 @@
+array (
+  'url' => 'https://movens.bitrix24.ru/rest/landing.landing.addblock.json',
+  'info' => 
+  array (
+    'url' => 'https://movens.bitrix24.ru/rest/landing.landing.addblock.json',
+    'content_type' => 'application/json; charset=utf-8',
+    'http_code' => 200,
+    'header_size' => 1262,
+    'request_size' => 222,
+    'filetime' => -1,
+    'ssl_verify_result' => 0,
+    'redirect_count' => 0,
+    'total_time' => 0.200606,
+    'namelookup_time' => 2.5E-5,
+    'connect_time' => 0.010152,
+    'pretransfer_time' => 0.040616,
+    'size_upload' => 1844.0,
+    'size_download' => 227.0,
+    'speed_download' => 1131.0,
+    'speed_upload' => 9192.0,
+    'download_content_length' => -1.0,
+    'upload_content_length' => 1844.0,
+    'starttransfer_time' => 0.051193,
+    'redirect_time' => 0.0,
+    'redirect_url' => '',
+    'primary_ip' => '178.132.201.51',
+    'certinfo' => 
+    array (
+    ),
+    'primary_port' => 443,
+    'local_ip' => '10.1.159.210',
+    'local_port' => 60852,
+  ),
+  'params' => 
+  array (
+    'method' => 'landing.landing.addblock',
+    'params' => 
+    array (
+      'lid' => '1279',
+      'fields' => 
+      array (
+        'CODE' => 'html',
+        'AFTER_ID' => 24921,
+        'CONTENT' => '<section class="landing-block g-pl-0 g-pr-0 g-bg-white g-pb-100 g-pt-50"><div class="html-block">
+	<table width="100%">
+	<tbody>
+	<tr>
+		<th>
+			 Станция
+		</th>
+		<th>
+			 Прибытие
+		</th>
+		<th>
+			 Стоянка
+		</th>
+		<th>
+			 Отправление
+		</th>
+		<th>
+			 Время в пути
+		</th>
+	</tr>
+	<tr>
+		<td>
+			 Санкт-Петербург-Главн.
+		</td>
+		<td>
+		</td>
+		<td>
+		</td>
+		<td>
+			 23:55
+		</td>
+		<td>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			 Москва Октябрьская
+		</td>
+		<td>
+			 07:55
+		</td>
+		<td>
+		</td>
+		<td>
+		</td>
+		<td>
+			 8 ч
+		</td>
+	</tr>
+	</tbody>
+	</table>
+</div>
+<br></section>',
+      ),
+      'auth' => '67b4295f004b12ec002a97140000007d000003055841a9606e9452e93ca997fdb17d8d',
+    ),
+  ),
+  'result' => 
+  array (
+    'result' => 24923,
+    'time' => 
+    array (
+      'start' => 1596565147.50247,
+      'finish' => 1596565147.56963,
+      'duration' => 0.06715989112854004,
+      'processing' => 0.0406498908996582,
+      'date_start' => '2020-08-04T21:19:07+03:00',
+      'date_finish' => '2020-08-04T21:19:07+03:00',
+    ),
+  ),
+)

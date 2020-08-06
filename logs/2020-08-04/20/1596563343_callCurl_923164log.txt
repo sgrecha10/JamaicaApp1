@@ -1,0 +1,71 @@
+array (
+  'url' => 'https://movens.bitrix24.ru/rest/landing.landing.addblock.json',
+  'info' => 
+  array (
+    'url' => 'https://movens.bitrix24.ru/rest/landing.landing.addblock.json',
+    'content_type' => 'application/json; charset=utf-8',
+    'http_code' => 200,
+    'header_size' => 1262,
+    'request_size' => 222,
+    'filetime' => -1,
+    'ssl_verify_result' => 0,
+    'redirect_count' => 0,
+    'total_time' => 0.187397,
+    'namelookup_time' => 2.5E-5,
+    'connect_time' => 0.010662,
+    'pretransfer_time' => 0.04314,
+    'size_upload' => 1191.0,
+    'size_download' => 227.0,
+    'speed_download' => 1211.0,
+    'speed_upload' => 6355.0,
+    'download_content_length' => -1.0,
+    'upload_content_length' => 1191.0,
+    'starttransfer_time' => 0.054486,
+    'redirect_time' => 0.0,
+    'redirect_url' => '',
+    'primary_ip' => '178.132.201.52',
+    'certinfo' => 
+    array (
+    ),
+    'primary_port' => 443,
+    'local_ip' => '10.1.159.210',
+    'local_port' => 48428,
+  ),
+  'params' => 
+  array (
+    'method' => 'landing.landing.addblock',
+    'params' => 
+    array (
+      'lid' => 1385,
+      'fields' => 
+      array (
+        'CODE' => '04.1.one_col_fix_with_title',
+        'AFTER_ID' => 24469,
+        'CONTENT' => '
+<section class="landing-block js-animation g-pt-20 g-pb-20 g-bg-gray-light-v5 animation-none" style="animation-duration: 1000ms; visibility: hidden; animation-name: none; animation-play-state: paused;">
+        <div class="container">
+            <div class="landing-block-node-inner text-uppercase text-center u-heading-v2-4--bottom g-brd-primary">
+                <h4 class="landing-block-node-subtitle h6 g-font-weight-800 g-font-size-12 g-letter-spacing-1 g-color-primary g-mb-20">Расписание поезда 016А</h4>
+                <h2 class="landing-block-node-title h1 u-heading-v2__title g-line-height-1_3 g-font-weight-600 g-mb-minus-10 g-font-size-30">Москва – Мурманск</h2>
+            </div>
+        </div>
+</section>
+        ',
+      ),
+      'auth' => '05a6295f004b12ec002a97140000007d000003078a47f927029b461dd15ccb9971baec',
+    ),
+  ),
+  'result' => 
+  array (
+    'result' => 24471,
+    'time' => 
+    array (
+      'start' => 1596563343.622539,
+      'finish' => 1596563343.692647,
+      'duration' => 0.07010793685913086,
+      'processing' => 0.0436549186706543,
+      'date_start' => '2020-08-04T20:49:03+03:00',
+      'date_finish' => '2020-08-04T20:49:03+03:00',
+    ),
+  ),
+)

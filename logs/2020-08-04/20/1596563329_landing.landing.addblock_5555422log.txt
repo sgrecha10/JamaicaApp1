@@ -1,0 +1,25 @@
+array (
+  'fields' => 
+  array (
+    'CODE' => 'html',
+    'AFTER_ID' => 24429,
+    'CONTENT' => '<section class="landing-block g-pl-0 g-pr-0 g-bg-white g-pb-100 g-pt-50"><div class="html-block"><table width="100%"><tbody><tr><th>Станция</th><th>Прибытие</th><th>Стоянка</th><th>Отправление</th><th>Время в пути</th></tr><tr><td>
+ Москва Октябрьская
+ </td><td></td><td></td><td>23:30</td><td></td></tr><tr><td>
+ Санкт-Петербург-Главн.
+ </td><td>08:30</td><td></td><td></td><td>9 ч</td></tr></tbody></table></div></section>',
+  ),
+  'result' => 
+  array (
+    'result' => 24431,
+    'time' => 
+    array (
+      'start' => 1596563329.574868,
+      'finish' => 1596563329.636652,
+      'duration' => 0.06178402900695801,
+      'processing' => 0.03345990180969238,
+      'date_start' => '2020-08-04T20:48:49+03:00',
+      'date_finish' => '2020-08-04T20:48:49+03:00',
+    ),
+  ),
+)

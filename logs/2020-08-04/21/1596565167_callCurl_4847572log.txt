@@ -1,0 +1,61 @@
+array (
+  'url' => 'https://movens.bitrix24.ru/rest/landing.landing.update.json',
+  'info' => 
+  array (
+    'url' => 'https://movens.bitrix24.ru/rest/landing.landing.update.json',
+    'content_type' => 'application/json; charset=utf-8',
+    'http_code' => 200,
+    'header_size' => 1262,
+    'request_size' => 220,
+    'filetime' => -1,
+    'ssl_verify_result' => 0,
+    'redirect_count' => 0,
+    'total_time' => 0.166625,
+    'namelookup_time' => 2.4E-5,
+    'connect_time' => 0.010365,
+    'pretransfer_time' => 0.043927,
+    'size_upload' => 2105.0,
+    'size_download' => 226.0,
+    'speed_download' => 1356.0,
+    'speed_upload' => 12633.0,
+    'download_content_length' => -1.0,
+    'upload_content_length' => 2105.0,
+    'starttransfer_time' => 0.055174,
+    'redirect_time' => 0.0,
+    'redirect_url' => '',
+    'primary_ip' => '178.132.201.51',
+    'certinfo' => 
+    array (
+    ),
+    'primary_port' => 443,
+    'local_ip' => '10.1.159.210',
+    'local_port' => 37102,
+  ),
+  'params' => 
+  array (
+    'method' => 'landing.landing.update',
+    'params' => 
+    array (
+      'lid' => '1287',
+      'fields' => 
+      array (
+        'TITLE' => 'Билеты на поезд 007А: Санкт-Петербург - Севастополь',
+        'DESCRIPTION' => 'Купить билет на поезд 007А (ТАВРИЯ) следующий по маршруту Санкт-Петербург - Севастополь и оплатить его самостоятельно для одного или нескольких пассажиров вы можете с помощью онлайн формы. Помните, что поезд №007А оправляется в 14:00 и прибывает в Севастополь спустя 1 день 19 часов 25 минут, количество остановок во время пути составляет 21 ст..',
+      ),
+      'auth' => '67b4295f004b12ec002a97140000007d000003055841a9606e9452e93ca997fdb17d8d',
+    ),
+  ),
+  'result' => 
+  array (
+    'result' => true,
+    'time' => 
+    array (
+      'start' => 1596565167.873313,
+      'finish' => 1596565167.911612,
+      'duration' => 0.0382990837097168,
+      'processing' => 0.011816978454589844,
+      'date_start' => '2020-08-04T21:19:27+03:00',
+      'date_finish' => '2020-08-04T21:19:27+03:00',
+    ),
+  ),
+)
