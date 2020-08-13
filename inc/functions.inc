@@ -97,14 +97,14 @@ function setTemlates($data){
     require (__DIR__.'/vars.inc');
     $block_array = array(
             '08.4.fix_title_and_text' => $content1,
-            '04.1.one_col_fix_with_title' => $content2,
+            '04.1.one_col_fix_with_title' => $content2, 
             'html' => $content3,
             '13.1.one_col_fix_text_and_button' => $content4,
             '04.7.one_col_fix_with_title_and_text_2' => $content5,
             '08.2.two_cols_fix_title_and_text' => $content6,
             '26.separator' => $content7,
             '33.12.form_2_light_right_text' => $content8,
-    );
+    ); // 'html ' => $content9,
     
     return $block_array;
 }
@@ -199,7 +199,9 @@ function updatePage($data, $page_id){
     // 3. Добавить блоки на страницу
     $id_block = '';
     foreach($block_array as $key => $val){
-   
+        
+        $key = trim($key);
+        
         $fields = array(
                 'CODE' => $key,
                 'AFTER_ID' => $id_block,
@@ -313,7 +315,9 @@ function createPage($data, $row_id){
     // Создаем блоки на странице    
     $id_block = '';
     foreach($block_array as $key => $val){
-            
+        
+        $key = trim($key);
+        
         $fields = array(
                 'CODE' => $key,
                 'AFTER_ID' => $id_block,

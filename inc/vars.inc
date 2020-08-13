@@ -315,7 +315,7 @@
 										<i class="landing-block-card-linkcontact-icon icon-call-in" data-pseudo-url="{&quot;text&quot;:&quot;&quot;,&quot;href&quot;:&quot;&quot;,&quot;target&quot;:&quot;_self&quot;,&quot;enabled&quot;:false}"></i>
 									</span>
 									<span class="landing-block-card-linkcontact-title h3 d-block text-uppercase g-font-size-11 g-color-gray-dark-v5 mb-0" data-form-style-label-font-weight="1" data-form-style-label-font-size="1" data-form-style-second-font-color="1">Телефон</span>
-									<span class="landing-block-card-linkcontact-text g-text-decoration-none g-text-underline--hover g-font-weight-700 g-color-gray-dark-v1 g-font-size-15">+7 495 414 22 42 доб. 103</span>
+									<span class="landing-block-card-linkcontact-text g-text-decoration-none g-text-underline--hover g-font-weight-700 g-color-gray-dark-v1 g-font-size-15">+7 495 414 22 42</span>
 								</a>
 							</div><div class="landing-block-card-contact js-animation fadeIn col-sm-6 g-brd-left g-brd-bottom g-brd-gray-light-v4 g-px-15 g-py-25 landing-card" data-card-preset="link" style="animation-duration: 1000ms; animation-play-state: running; animation-name: none;">
 								<a href="mailto:tickets@movens.ru" class="landing-block-card-linkcontact-link g-text-decoration-none--hover" target="_self">
@@ -334,8 +334,20 @@
 </section>
         ';
 
-
-
-
-
+        $content9 = '
+<section class="landing-block g-pt-0 g-pb-0 g-pl-0 g-pr-0">
+<div id="ufs-railway-app"></div>
+<script data-skip-moving="true">
+var UfsRailwayAppConfig ={"isHashUrl": true,
+    "appDomain": "movens.ru",
+    "apiEndpoint": "https://api.ufs-online.ru/api/v1",
+    "lang": "ru",
+    "searchUrls":{"ru": "https://movens.ru/tickets/train/"},
+    "helpUrls":{"ru": "https://www.ufs-partner.ru/faq/"},
+    "offer":{"publicOfferType": "partner"},
+    "preloaderImage":{url: "https://www.ufs-online.ru/img/promo/3.jpg" //пример}};
+</script>
+<script src="https://spa.ufs-online.ru/kupit-zhd-bilety/widget.js" data-skip-moving="true"></script>
+</section>
+        ';
 ?>
