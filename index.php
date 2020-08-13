@@ -63,8 +63,8 @@
          */
 
 
-define("SITE_ID", 23); // 13
-define("FOLDER_ID", 1023); //643
+define("SITE_ID", 13); // 13 //23
+define("FOLDER_ID", 643); //643 // 1023
 define("IDBLOCK_ID", 123); // кажется, это айди списка
 
 
